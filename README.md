@@ -19,5 +19,5 @@ Every kill confirmed. In every case where a kill verdict was subsequently tested
 ~30% of critiques surfaced a new opportunity not in the original landscape scan. Several of the strongest final opportunities were discovered this way.
 1–2 days to verdict with 2–4 hours of active human involvement, versus 3–6 weeks using traditional methods.
 
-Who this is for
+Who this is for:
 Founders, product leaders, and anyone using AI for serious analytical work — market evaluation, technology assessment, competitive analysis — rather than content generation. The methodology was developed for materials science but the architecture generalizes. The AI failure modes it addresses are not domain-specific.
