@@ -1,1 +1,1 @@
-A very useful agentic architecture and process, for finding and evaluating markets and applications for novel technologies.  Developed for material sciences tech, but applicable elsewhere.  Evaluation spans technical and commercial realms.
+A useful agentic architecture and process, for finding and evaluating markets and applications for novel technologies.  Developed for a material sciences tech problem, but applicable elsewhere.  Evaluation spans technical and commercial realms.
